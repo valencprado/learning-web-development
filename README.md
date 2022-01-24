@@ -1,1 +1,1 @@
-# learning-typescript
+# Learning Javascript and Typescript 🚀
